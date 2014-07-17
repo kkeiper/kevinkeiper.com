@@ -1,0 +1,201 @@
+body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_container {
+    position:absolute;
+    left:5px;
+    top:5px;
+    width:312px;
+    height:739px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:312px;
+    height:739px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:362px;
+    width:308px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u2 {
+    position:absolute;
+    left:14px;
+    top:31px;
+    width:42px;
+    height:33px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u3 {
+    position:absolute;
+    left:99px;
+    top:500px;
+    width:118px;
+    height:24px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u4 {
+    position:absolute;
+    left:11px;
+    top:672px;
+    width:301px;
+    height:49px;
+    overflow:hidden;
+}
+
+#pd1u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:301px;
+    height:49px;
+    
+}
+
+.u5_normal {
+    background-image: url('../Album_Detail___song_detail_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:0px;
+    top:5px;
+    width:300px;
+    height:45px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:45px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u7 {
+    position:absolute;
+    left:280px;
+    top:8px;
+    width:16px;
+    height:18px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#pd0u4 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:301px;
+    height:49px;
+    
+}
+
+.u8_normal {
+    background-image: url('../Album_Detail___song_detail_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:0px;
+    top:5px;
+    width:300px;
+    height:45px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:300px;
+    height:45px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u10 {
+    position:absolute;
+    left:280px;
+    top:8px;
+    width:16px;
+    height:18px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
